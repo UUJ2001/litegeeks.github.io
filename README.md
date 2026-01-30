@@ -1,4 +1,1 @@
-# LiteCoders
-## Practical of githubPH
-
 
